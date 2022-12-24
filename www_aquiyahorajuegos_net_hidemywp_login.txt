@@ -1,0 +1,17 @@
+Thank you for using Hide My WP Ghost!
+
+________________________________________
+Your new site URLs are:
+
+URL de Admin: https://www.aquiyahorajuegos.net/pruebas/wp-admin/
+URL de Login: https://www.aquiyahorajuegos.net/pruebas/newlogin
+
+________________________________________
+Note: If you can&#039;t login to your site, just access this URL:
+
+https://www.aquiyahorajuegos.net/pruebas/wp-login.php?hgEbGzkerafOYNtR=yUSZVeCoGEFztKRB
+
+
+________________________________________
+Best regards,
+Hide My WP Ghost
