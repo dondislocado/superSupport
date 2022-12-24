@@ -1,0 +1,71 @@
+{
+  "embeds": {
+    "openTicket": {
+      "title": "Abre una incidencia",
+      "description": "Puedes abrir un chat con el soporte, dale click al botón",
+      "footer": {
+        "text": "aquiyahorajuegos.net",
+        "iconUrl": ""
+      }
+    },
+    "ticketOpened": {
+      "title": "Incidencia CATEGORYNAME",
+      "description": "El STAFF le ayudará con la máxima brevedad posible, sea paciente. Si ve que el STAFF no responde en 12h, vuelva a mencionar o abrir otro ticket.",
+      "footer": {
+        "text": "aquiyahorajuegos.net",
+        "iconUrl": ""
+      }
+    },
+    "ticketClosed": {
+      "title": "Incidencia cerrada",
+      "description": "La incidencia ha sido cerrada por CLOSERNAME con los siguientes motivos: `REASON`"
+    },
+    "ticketClosedDM": {
+      "title": "Incidencia cerrada",
+      "description": "La incidencia n°TICKETCOUNT ha sido cerrada por CLOSERNAME con los siguientes motivos: `REASON`\n\nAquí tienes el historial de la incidencia: TRANSCRIPTURL",
+      "footer": {
+        "text": "aquiyahorajuegos.net",
+        "iconUrl": ""
+      }
+    }
+  },
+  "modals": {
+    "reasonTicketOpen": {
+      "title": "Abre una incidencia",
+      "label": "¿Cuál es tu incidencia?",
+      "placeholder": "Introduce la razón por la que quieres abrir una incidencia."
+    },
+    "reasonTicketClose": {
+      "title": "Cerrar incidencia",
+      "label": "¿Por qué quieres cerrar la incidencia?",
+      "placeholder": "Introduce la razón por la que quieres cerrar una incidencia."
+    }
+  },
+  "buttons": {
+    "close": {
+      "label": "Cerrar incidencia",
+      "emoji": "🔒"
+    },
+    "claim": {
+      "label": "Reclamar",
+      "emoji": "🙋"
+    }
+  },
+  "ticketOpenedMessage": "Incidencia abierta! TICKETCHANNEL",
+  "ticketOnlyClaimableByStaff": "La incidencia ha sido reclamada por un STAFF!",
+  "ticketAlreadyClaimed": "La incidencia ya ha sido reclamada",
+  "ticketClaimedMessage": "> Incidencia reclamada por USER",
+  "ticketOnlyClosableByStaff": "Solo el STAFF puede cerrar la incidencia",
+  "ticketAlreadyClosed": "La incidencia ya ha sido cerrada",
+  "ticketCreatingTranscript": "> Creando el historial de mensajes...",
+  "ticketTranscriptCreated": "> Historial de mensajes creado con éxito! TRANSCRIPTURL",
+  "ticketLimitReached": "Solo puedes tener TICKETLIMIT incidencias abiertas de forma simultánea",
+
+  "other": {
+    "openTicketButtonMSG": "Abrir chat",
+    "deleteTicketButtonMSG": "Cerrar chat",
+    "selectTicketTypePlaceholder": "Selecciona el tipo de incidencia",
+    "claimedBy": "**Reclamado por**: USER",
+    "noReasonGiven": "No hay un motivo de apertura"
+  }
+}
